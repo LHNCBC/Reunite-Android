@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository has been archived and is no longer maintained.  
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.  
+> It should not be used in production systems.
 # ReUnite - Android #
 
 The Reunite app is designed to speed uploading necessary personal information about missing (and found) people to NLM's People Locator service available (now defunct).  
